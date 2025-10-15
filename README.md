@@ -24,6 +24,10 @@ This comprehensive Exploratory Data Analysis (EDA) investigation of global popul
 
 The Customer Caring Integrated Platform is designed to facilitate the management of customer data and their interactions within an organization. This platform, built using PHP Laravel, streamlines the operational workflow of customer service teams, enabling them to view, manage, and update customer information in a secure and structured manner. Access to the platform is role-based, ensuring that only authorized personnel can modify or interact with sensitive data. The primary purpose of the system is to provide a centralized dashboard for customer and business management, improving the efficiency of customer service operations and decision-making.
 
+7. Telegram Bot Development
+
+This is a Telegram bot designed to streamline customer order management by providing quick access to customer data stored in a Google Sheet. The bot offers commands for searching customer orders, monitoring orders by specific parameters, and clearing recent chat messages.
+
 # Rangkuman Projek(BAHASA)
 
 1. **Machine Learning**
@@ -48,6 +52,8 @@ The Customer Caring Integrated Platform is designed to facilitate the management
 
 6. **Integrated Platform**
 
-Platform Terpadu Pelayanan Pelanggan dirancang untuk memfasilitasi pengelolaan data pelanggan dan interaksi mereka di dalam suatu organisasi. Platform ini, yang dibangun menggunakan PHP Laravel, menyederhanakan alur kerja operasional tim layanan pelanggan, memungkinkan mereka untuk melihat, mengelola, dan memperbarui informasi pelanggan secara aman dan terstruktur. Akses ke platform ini berbasis peran (role-based), sehingga hanya personel yang berwenang yang dapat memodifikasi atau berinteraksi dengan data sensitif. Tujuan utama dari sistem ini adalah menyediakan dasbor terpusat untuk manajemen pelanggan dan bisnis, sehingga meningkatkan efisiensi operasional layanan pelanggan serta pengambilan keputusan.
+   Platform Terpadu Pelayanan Pelanggan dirancang untuk memfasilitasi pengelolaan data pelanggan dan interaksi mereka di dalam suatu organisasi. Platform ini, yang dibangun menggunakan PHP Laravel, menyederhanakan alur kerja operasional tim layanan pelanggan, memungkinkan mereka untuk melihat, mengelola, dan memperbarui informasi pelanggan secara aman dan terstruktur. Akses ke platform ini berbasis peran (role-based), sehingga hanya personel yang berwenang yang dapat memodifikasi atau berinteraksi dengan data sensitif. Tujuan utama dari sistem ini adalah menyediakan dasbor terpusat untuk manajemen pelanggan dan bisnis, sehingga meningkatkan efisiensi operasional layanan pelanggan serta pengambilan keputusan.
 
+7. **Rancangan Bot Telegram
 
+   Ini adalah bot Telegram yang dirancang untuk mempermudah pengelolaan pesanan pelanggan dengan menyediakan akses cepat ke data pelanggan yang tersimpan di Google Sheet. Bot ini menawarkan perintah untuk mencari pesanan pelanggan, memantau pesanan berdasarkan parameter tertentu, serta menghapus pesan obrolan terbaru.
