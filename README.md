@@ -8,7 +8,7 @@ Data loading, preprocessing, SVM model training, 3D visualization, performance a
 
 This Power BI project on chartered bicycles will thoroughly examine utilization trends and relevant variables. Visualizations give a clear picture of patterns, seasonal demand, and the effects of variables like wind speed, temperature, and humidity. Examples of these visualizations include clustered line and column charts, color-coded bar charts, funnel charts, pie charts, and humidity bins graphics. The interactive dashboard provides in-depth insights into the dynamics of chartered bicycle usage, encouraging exploration.
 
-3.Data Cleaning
+3. Data Cleaning
 
 I carefully selected and improved the dataset for this FIFA21 data cleaning job to guarantee its accuracy and consistency. The procedure included managing missing values, removing unneeded columns strategically, and making formatting changes for better readability. In order to increase readability, columns were rearranged and player status indicators were added. Numerical consistency was guaranteed by unit standardization, money value conversion, and symbol removal. The 'Positions' column was cleaned and sorted alphabetically to better improve the dataset. The result is a refined dataset that can be stored as "cleaned fifa21.csv" and is prepared for more efficient modeling and analysis with better data integrity.
 
