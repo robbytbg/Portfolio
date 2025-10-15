@@ -54,6 +54,6 @@ This is a Telegram bot designed to streamline customer order management by provi
 
    Platform Terpadu Pelayanan Pelanggan dirancang untuk memfasilitasi pengelolaan data pelanggan dan interaksi mereka di dalam suatu organisasi. Platform ini, yang dibangun menggunakan PHP Laravel, menyederhanakan alur kerja operasional tim layanan pelanggan, memungkinkan mereka untuk melihat, mengelola, dan memperbarui informasi pelanggan secara aman dan terstruktur. Akses ke platform ini berbasis peran (role-based), sehingga hanya personel yang berwenang yang dapat memodifikasi atau berinteraksi dengan data sensitif. Tujuan utama dari sistem ini adalah menyediakan dasbor terpusat untuk manajemen pelanggan dan bisnis, sehingga meningkatkan efisiensi operasional layanan pelanggan serta pengambilan keputusan.
 
-7. **Rancangan Bot Telegram
+7. **Rancangan Bot Telegram**
 
    Ini adalah bot Telegram yang dirancang untuk mempermudah pengelolaan pesanan pelanggan dengan menyediakan akses cepat ke data pelanggan yang tersimpan di Google Sheet. Bot ini menawarkan perintah untuk mencari pesanan pelanggan, memantau pesanan berdasarkan parameter tertentu, serta menghapus pesan obrolan terbaru.
