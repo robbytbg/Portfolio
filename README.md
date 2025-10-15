@@ -20,6 +20,10 @@ I converted crowdfunding data in an efficient manner for my ETL (Extract, Transf
    
 This comprehensive Exploratory Data Analysis (EDA) investigation of global population data proceeded methodically through key phases. I built a strong analytical foundation by carefully exploring the dataset before moving on to loading, descriptive statistics, and correlation analysis. The data was thoughtfully sorted and shown to highlight the top nations and provide detailed insights into demographic changes. An in-depth analysis of particular nations, like Indonesia, offered a window into regional patterns. Global view was expanded with continent-wise analysis that included mean population trends and dispersion representations. A visually stunning pie chart that showed the world population distribution per continent in 2022 was displayed in the finale. This extensive EDA produced a deep and insightful investigation of global population changes by skillfully fusing statistical depth with eye-catching images.
 
+6. Integrated Platform
+
+The Customer Caring Integrated Platform is designed to facilitate the management of customer data and their interactions within an organization. This platform, built using PHP Laravel, streamlines the operational workflow of customer service teams, enabling them to view, manage, and update customer information in a secure and structured manner. Access to the platform is role-based, ensuring that only authorized personnel can modify or interact with sensitive data. The primary purpose of the system is to provide a centralized dashboard for customer and business management, improving the efficiency of customer service operations and decision-making.
+
 # Rangkuman Projek(BAHASA)
 
 1. **Machine Learning**
